@@ -3,9 +3,9 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "YOUR_MNEMONIC",
+  "over access prize copy engine common exclude park bundle ski dignity pluck",
   // remember to change this to your own phrase!
-  "YOUR_INFURA_URL"
+  "https://rinkeby.infura.io/v3/a61620447b2e43ebaf565e95a44fa6f2"
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
